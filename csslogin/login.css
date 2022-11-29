@@ -1,0 +1,67 @@
+body {
+	background: #448ed3 ;
+}
+
+/* start login */
+.wrap {
+	width:250px;
+	margin: auto;
+	margin-top: 1%;
+  align-content: center
+}
+
+.txtlogin {
+	border: none;
+	background: #fff;
+	display: block;
+	height: 40px;
+	outline: none;
+	width: calc(100% - 24px) ;
+	margin: auto;
+	padding: 6px 12px 6px 12px;
+}
+.bar {
+	width: 226px;
+	height: 1px;
+	background-color: #fff ;
+    margin: 0 auto;
+
+}
+.bar i {
+	width: 200px;
+	margin: auto;
+	height: 1px ;
+	display: block;
+	background: #d1d1d1;
+    position: relative;
+    z-index: 2;
+}
+.txtu {
+	border-radius: 7px 7px 0px 0px ;
+}
+.txtp {
+	border-radius: 0px 0px 7px 7px ; position: relative; top: -2px; z-index: 1;
+    padding-top: 10px;
+}
+
+.btnlogin { width: calc(100% - 24px); margin:auto; display: block;}
+
+button{
+	margin-left: 635px;
+	margin-top: 50px;
+	padding: 6px 12px 6px 12px;
+}
+
+#message {
+	width: 300px;
+	height: 200px;
+  display:white;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+	margin-left: 580px;
+	border-style: solid;
+	border-color:white;
+}

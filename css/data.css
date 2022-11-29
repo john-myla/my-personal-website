@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+}
+
+img{
+  height: 50px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+p{
+  background-color: darkblue;
+  height: 40px;
+  color: white;
+  font-style: bold;
+  font-size: 30px;
+  margin: 0;
+}
+
+.A{
+  height: 40px;
+  border: 1px;
+  border-style: solid;
+  position: relative;
+  display: inline-block;
+  width: 675px;
+  text-align: left;
+}
+
+.B{
+  height: 40px;
+  border: 1px;
+  border-style: solid;
+  position: relative;
+  display: inline-block;
+  width: 675px;
+  text-align: left;
+  margin-left: 675px;
+  margin-bottom: : 50px;
+}
